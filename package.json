@@ -1,0 +1,23 @@
+{
+  "name": "really-small-events",
+  "version": "1.0.0",
+  "description": "A Tiny Typescript Event Library",
+  "main": "src/index.js",
+  "typings": "src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClickSimply/really-small-events.git"
+  },
+  "keywords": [
+    "events",
+    "event",
+    "typescript",
+    "callback"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClickSimply/really-small-events/issues"
+  },
+  "homepage": "https://github.com/ClickSimply/really-small-events#readme"
+}
